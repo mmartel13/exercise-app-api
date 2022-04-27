@@ -1,0 +1,38 @@
+[
+    {
+        "body part": "Quadriceps",
+        "exercise": "Squats",
+        "sets": "3",
+        "reps": "15"
+    },
+    {
+        "body part": "Hamstrings/Glutes",
+        "exercise": "Deadlift",
+        "sets": "3",
+        "reps": "15"
+    },
+    {
+        "body part": "Quadriceps/Glutes",
+        "exercise": "Lunges",
+        "sets": "3",
+        "reps": "12 each side"
+    },
+    {
+        "body part": "Bicep Curl",
+        "exercise": "Biceps",
+        "sets": "3",
+        "reps": "12"
+    },
+    {
+        "body part": "Triceps",
+        "exercise": "Kickbacks",
+        "sets": "3",
+        "reps": "12"
+    },
+    {
+        "body part": "Abdominal Muscles",
+        "exercise": "Russian Twists",
+        "sets": "3",
+        "reps": "30"
+    }
+]
