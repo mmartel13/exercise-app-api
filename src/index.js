@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const { getExercises } = require('./functions');
+const { getExercises, getExercise } = require('./functions');
 const PORT = process.env.PORT || 3000;
 
 const app = express();
@@ -12,3 +12,4 @@ app.listen(PORT, () => {
 });
 
 app.get('/exercises', getExercises);
+app.get('/exercises/:id', getExercise);

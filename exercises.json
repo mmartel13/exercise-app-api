@@ -1,38 +1,50 @@
 [
     {
-        "body part": "Quadriceps",
+        "image": "https://firebasestorage.googleapis.com/v0/b/exercise-app-mm.appspot.com/o/Squat.jpeg?alt=media",
+        "bodyPart": "Quadriceps",
         "exercise": "Squats",
         "sets": "3",
-        "reps": "15"
+        "reps": "15",
+        "description": ""
     },
     {
-        "body part": "Hamstrings/Glutes",
+        "image": "https://firebasestorage.googleapis.com/v0/b/exercise-app-mm.appspot.com/o/Deadlift.jpeg?alt=media",
+        "bodyPart": "Hamstrings/Glutes",
         "exercise": "Deadlift",
         "sets": "3",
-        "reps": "15"
+        "reps": "15",
+        "description": ""
     },
     {
-        "body part": "Quadriceps/Glutes",
+        "image": "https://firebasestorage.googleapis.com/v0/b/exercise-app-mm.appspot.com/o/Lunge.jpeg?alt=media",
+        "bodyPart": "Quadriceps/Glutes",
         "exercise": "Lunges",
         "sets": "3",
-        "reps": "12 each side"
+        "reps": "12 each side",
+        "description": ""
     },
     {
-        "body part": "Bicep Curl",
+        "image": "https://firebasestorage.googleapis.com/v0/b/exercise-app-mm.appspot.com/o/Bicep%20Curl.jpeg?alt=media",
+        "bodyPart": "Bicep Curl",
         "exercise": "Biceps",
         "sets": "3",
-        "reps": "12"
+        "reps": "12",
+        "description": ""
     },
     {
-        "body part": "Triceps",
+        "image": "https://firebasestorage.googleapis.com/v0/b/exercise-app-mm.appspot.com/o/Tricep%20Kickback.jpeg?alt=media",
+        "bodyPart": "Triceps",
         "exercise": "Kickbacks",
         "sets": "3",
-        "reps": "12"
+        "reps": "12",
+        "description": ""
     },
     {
-        "body part": "Abdominal Muscles",
+        "image": "https://firebasestorage.googleapis.com/v0/b/exercise-app-mm.appspot.com/o/Russian%20Twist.jpeg?alt=media",
+        "bodyPart": "Abdominal Muscles",
         "exercise": "Russian Twists",
         "sets": "3",
-        "reps": "30"
+        "reps": "30",
+        "description": ""
     }
 ]
